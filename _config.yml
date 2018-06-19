@@ -1,6 +1,5 @@
 title: This is a blog test
-description: > # this means to ignore newlines until "baseurl:"
-Checking all possible ways
+description: This is for bug fix
 baseurl: "/blogtest" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
